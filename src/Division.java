@@ -4,7 +4,6 @@ public class Division {
 
      public void division() {
 
-
          double dividendo, divisor, resultado;
 
          Scanner sc = new Scanner(System.in);
